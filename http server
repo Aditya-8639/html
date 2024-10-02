@@ -22,3 +22,5 @@
 //  so to make it a backend language they take out the v8 engine compiler that take out the js and added aditonally functionallity to create http server ,
 // read file etc so that it directly convert it into 0 1  and send to machine language so it will serve the purpose of the js backend language 
 
+what is bun ?
+it is build on the top of the node js so they samrtly make out the things faster and make bun 
