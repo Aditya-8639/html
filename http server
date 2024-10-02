@@ -1,0 +1,24 @@
+// what is ECMA script ?\
+
+//   as far i know it is a set of standards laid down by the Ecma that for a complier to make for the javascript this number
+// of functinalities  and the functions must be included 
+// for javasript 
+//  (European Computer Manufacturers Association )
+
+
+// what is javascript??
+
+// ECMAScript: Defines core language features (variables, loops, classes, functions).
+// JavaScript: Implements ECMAScript and adds Web APIs, browser-specific features
+//   , event handling, module systems, and other runtime-specific functionalities (like Node.js) to make it useful for web and server-side development.
+
+  // a programming language that will  implement all the ecma standards and also provide the additional feature like web apis so that it can interact with the browser
+//Yes, that's correct! JavaScript provides access to Web APIs that allow it to interact with the browser 
+// and perform tasks beyond the core ECMAScript language specification. These
+// Web APIs are not part of the ECMAScript standard but are provided by the browser (or the runtime environment) to 
+// enable JavaScript to interact with the web environment.
+
+// what is nodejs then???
+//  so to make it a backend language they take out the v8 engine compiler that take out the js and added aditonally functionallity to create http server ,
+// read file etc so that it directly convert it into 0 1  and send to machine language so it will serve the purpose of the js backend language 
+
