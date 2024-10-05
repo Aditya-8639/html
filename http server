@@ -24,3 +24,14 @@
 
 what is bun ?
 it is build on the top of the node js so they samrtly make out the things faster and make bun 
+
+
+
+why we need body parser?
+
+
+the bodyparser enables us to parse the incoming request in the middleware and th eexpress want to what type of the data is this so that we can parse
+
+difference between the npx and npm??
+
+
