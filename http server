@@ -20,7 +20,7 @@
 
 // what is nodejs then???
 //  so to make it a backend language they take out the v8 engine compiler that take out the js and added aditonally functionallity to create http server ,
-// read file etc so that it directly convert it into 0 1  and send to machine language so it will serve the purpose of the js backend language 
+// read file,web socket so it understands js and convert js to 010101 also provie the more features etc so that it directly convert it into 0 1  and send to machine language so it will serve the purpose of the js backend language 
 
 what is bun ?
 it is build on the top of the node js so they samrtly make out the things faster and make bun 
@@ -28,10 +28,11 @@ it is build on the top of the node js so they samrtly make out the things faster
 
 
 why we need body parser?
-
-
 the bodyparser enables us to parse the incoming request in the middleware and th eexpress want to what type of the data is this so that we can parse
+so bodyparser is a middleware library since core express cannot pare the body
 
-difference between the npx and npm??
 
+//difference between the npx and npm??
+//Use npm to manage and install packages.
+//Use npx to run commands from packages without permanently installing them, which is particularly useful for one-off tasks or CLI tools.
 
