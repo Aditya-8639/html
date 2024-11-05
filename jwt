@@ -1,0 +1,15 @@
+two type of auth => stateless and statefull
+statefull is which takes staorage on the server side 
+stateless means no state so no need to store
+
+now folder structure of the node js 
+
+m v c models , routes, controllers ,
+
+app is an instance of the express() server...
+then routes bannae on the top of it so in new file we make express.Router() i that we define the api and again if we weant that for sognapi we want post get for login so 
+
+app.route('/singup')
+   .post(newentry)   // new entry is a function in the controller 
+
+
